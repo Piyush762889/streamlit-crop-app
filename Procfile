@@ -1,1 +1,2 @@
-web : sh setup.sh && streamlit run --server.port $PORT finalcrop.py
+web : streamlit run --server.enableCORS
+false --server.port $port finalcrop.py
