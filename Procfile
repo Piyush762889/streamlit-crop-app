@@ -1,1 +1,1 @@
-web : sh setup.sh && streamlit run finalcrop.py
+echo PORT $PORT web : sh setup.sh && streamlit run --server.port $PORT finalcrop.py
