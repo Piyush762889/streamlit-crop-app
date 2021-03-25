@@ -16,7 +16,7 @@ from sklearn.ensemble import RandomForestClassifier
 st.write("""
  #Basic Crop Recommendation App
  
- This app predicts the crop which can be grown based on certain criteria!
+ This app predicts the crop which can be grown based on certain soil contents and its criteria!
 
 """)
 
