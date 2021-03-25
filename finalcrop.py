@@ -70,7 +70,7 @@ st.write(df)
 # In[12]:
 
 
-crop = pd.read_csv("C:/Users/H360172/Downloads/Crop_recommendation.csv")
+crop = pd.read_csv("Crop_recommendation.csv")
 
 
 # In[19]:
