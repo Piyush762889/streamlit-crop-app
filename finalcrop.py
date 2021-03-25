@@ -70,7 +70,7 @@ st.write(df)
 # In[12]:
 
 
-crop = pd.read_csv("https://github.com/Piyush762889/streamlit-crop-app/blob/41e04517e1227c18db93a63309ca7b3a829c11e1/Crop_recommendation.csv")
+crop = pd.read_csv("Crop_recommendation.csv")
 
 
 # In[19]:
