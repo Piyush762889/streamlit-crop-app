@@ -101,63 +101,9 @@ st.subheader('prediction')
 st.write(crop.label[prediction])
 
 
-# In[30]:
-
-
-st.subheader('prediction probability')
-st.write(prediction_proba)
-
-
 # In[ ]:
 
-
-
-
-
 # In[ ]:
-
-
-
-
-
 # In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
