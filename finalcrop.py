@@ -98,6 +98,8 @@ prediction_proba = clf.predict_proba(df)
 
 
 st.subheader('prediction')
+st.write('prediction')
+
 
 
 # In[ ]:
