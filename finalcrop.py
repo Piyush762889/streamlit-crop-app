@@ -98,7 +98,7 @@ prediction_proba = clf.predict_proba(df)
 
 
 st.subheader('prediction')
-st.write(crop.label[prediction_proba])
+st.write(Y[prediction])
 
 
 
