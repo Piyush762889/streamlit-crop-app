@@ -98,7 +98,7 @@ prediction_proba = clf.predict_proba(df)
 
 
 st.subheader('prediction')
-st.write(clf.predict_proba(df))
+st.write(clf.predict(df))
 
 
 
