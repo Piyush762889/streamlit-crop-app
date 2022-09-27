@@ -77,7 +77,7 @@ crop = pd.read_csv("C:/Users/h360172/Downloads/Crop_recommendation.csv")
 
 
 X = crop[['N','P', 'K','temperature','ph',  'rainfall']]
-Y = crop.label
+Y = crop.label()
 
 
 # In[22]:
